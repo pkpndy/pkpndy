@@ -45,5 +45,5 @@ My name is Prakash Pandey.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkpndy&" alt="pkpndy" /></p>
 
-[![github contribution grid snake animation](https://github.com/pkpndy/pkpndy/blob/output/github-contribution-grid-snake.gif)]
+[![github contribution grid snake animation](https://github.com/pkpndy/pkpndy/blob/output/github-contribution-grid-snake.svg)]
 
