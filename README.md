@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+-->  
+</a> 
 </div>
 
 <hr/>
@@ -35,6 +36,18 @@
 
 <br/>
 
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pkpndy/pkpndy/output/github-contribution-grid-snake.svg" />
+  <br/>
+  </div>
+
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkpndy&show_icons=true&locale=en&layout=compact" alt="pkpndy" /></p>
 
@@ -42,15 +55,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkpndy&" alt="pkpndy" /></p>
 </br>
-<hr/>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pkpndy/pkpndy/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-  </div>
-
 <hr/>
 
 <h3 align="center">
