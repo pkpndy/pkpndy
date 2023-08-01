@@ -45,6 +45,11 @@ My name is Prakash Pandey.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkpndy&" alt="pkpndy" /></p>
 </br>
-![snake gif]
-(https://github.com/pkpndy/pkpndy/blob/output/github-contribution-grid-snake.gif)
+<hr/>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pkpndy/pkpndy/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+  </div>
