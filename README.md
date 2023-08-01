@@ -44,6 +44,7 @@ My name is Prakash Pandey.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkpndy&show_icons=true&locale=en" alt="pkpndy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkpndy&" alt="pkpndy" /></p>
-
-[![github contribution grid snake animation](https://github.com/pkpndy/pkpndy/blob/output/github-contribution-grid-snake.svg)]
+</br>
+![snake gif]
+(https://github.com/pkpndy/pkpndy/blob/output/github-contribution-grid-snake.gif)
 
