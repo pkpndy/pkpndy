@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nodejs,express,c,cpp,mongodb,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,linux,nodejs,express,c,cpp,mongodb,aws" /><br>
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,git,github,solidity,ts" />
 </div>
 
