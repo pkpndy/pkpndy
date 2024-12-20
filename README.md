@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,linux,nodejs,express,c,cpp,mongodb,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,git,github,solidity,ts" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,jenkins,c,cpp,mongodb,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,express,git,github,solidity,ts" />
 </div>
 
 <br/>
