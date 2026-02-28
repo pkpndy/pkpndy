@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cpp,mongodb,aws,gcp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,go,terraform,nodejs,express,git,github,postgres,vim" />
+    <img src="https://skillicons.dev/icons?i=react,go,terraform,nodejs,express,git,github,postgres,azure" />
 </div>
 
 <br/>
